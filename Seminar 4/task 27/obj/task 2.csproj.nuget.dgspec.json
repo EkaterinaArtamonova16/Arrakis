@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ekaterinaartamonova/Desktop/C# 2/Homework seminars C#/Arrakis/Seminar 4/task 2/task 2.csproj": {}
+    "/Users/ekaterinaartamonova/Desktop/C# 2/Homework seminars C#/Arrakis/Seminar 4/task 27/task 2.csproj": {}
   },
   "projects": {
-    "/Users/ekaterinaartamonova/Desktop/C# 2/Homework seminars C#/Arrakis/Seminar 4/task 2/task 2.csproj": {
+    "/Users/ekaterinaartamonova/Desktop/C# 2/Homework seminars C#/Arrakis/Seminar 4/task 27/task 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ekaterinaartamonova/Desktop/C# 2/Homework seminars C#/Arrakis/Seminar 4/task 2/task 2.csproj",
+        "projectUniqueName": "/Users/ekaterinaartamonova/Desktop/C# 2/Homework seminars C#/Arrakis/Seminar 4/task 27/task 2.csproj",
         "projectName": "task 2",
-        "projectPath": "/Users/ekaterinaartamonova/Desktop/C# 2/Homework seminars C#/Arrakis/Seminar 4/task 2/task 2.csproj",
+        "projectPath": "/Users/ekaterinaartamonova/Desktop/C# 2/Homework seminars C#/Arrakis/Seminar 4/task 27/task 2.csproj",
         "packagesPath": "/Users/ekaterinaartamonova/.nuget/packages/",
-        "outputPath": "/Users/ekaterinaartamonova/Desktop/C# 2/Homework seminars C#/Arrakis/Seminar 4/task 2/obj/",
+        "outputPath": "/Users/ekaterinaartamonova/Desktop/C# 2/Homework seminars C#/Arrakis/Seminar 4/task 27/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ekaterinaartamonova/.nuget/NuGet/NuGet.Config"
