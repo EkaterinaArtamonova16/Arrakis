@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ekaterinaartamonova/Desktop/C# 2/Homework seminars C#/Arrakis/Seminar 4/task 1/task 1.csproj",
+      "projectUniqueName": "/Users/ekaterinaartamonova/Desktop/C# 2/Homework seminars C#/Arrakis/Seminar 4/task 25/task 1.csproj",
       "projectName": "task 1",
-      "projectPath": "/Users/ekaterinaartamonova/Desktop/C# 2/Homework seminars C#/Arrakis/Seminar 4/task 1/task 1.csproj",
+      "projectPath": "/Users/ekaterinaartamonova/Desktop/C# 2/Homework seminars C#/Arrakis/Seminar 4/task 25/task 1.csproj",
       "packagesPath": "/Users/ekaterinaartamonova/.nuget/packages/",
-      "outputPath": "/Users/ekaterinaartamonova/Desktop/C# 2/Homework seminars C#/Arrakis/Seminar 4/task 1/obj/",
+      "outputPath": "/Users/ekaterinaartamonova/Desktop/C# 2/Homework seminars C#/Arrakis/Seminar 4/task 25/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ekaterinaartamonova/.nuget/NuGet/NuGet.Config"
