@@ -1,0 +1,15 @@
+/Users/ekaterinaartamonova/Desktop/C# 2/Homework seminars C#/Arrakis/seminar 7/obj/Debug/net6.0/seminar 7.csproj.AssemblyReference.cache
+/Users/ekaterinaartamonova/Desktop/C# 2/Homework seminars C#/Arrakis/seminar 7/obj/Debug/net6.0/seminar 7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinaartamonova/Desktop/C# 2/Homework seminars C#/Arrakis/seminar 7/obj/Debug/net6.0/seminar 7.AssemblyInfoInputs.cache
+/Users/ekaterinaartamonova/Desktop/C# 2/Homework seminars C#/Arrakis/seminar 7/obj/Debug/net6.0/seminar 7.AssemblyInfo.cs
+/Users/ekaterinaartamonova/Desktop/C# 2/Homework seminars C#/Arrakis/seminar 7/obj/Debug/net6.0/seminar 7.csproj.CoreCompileInputs.cache
+/Users/ekaterinaartamonova/Desktop/C# 2/Homework seminars C#/Arrakis/seminar 7/bin/Debug/net6.0/seminar 7
+/Users/ekaterinaartamonova/Desktop/C# 2/Homework seminars C#/Arrakis/seminar 7/bin/Debug/net6.0/seminar 7.deps.json
+/Users/ekaterinaartamonova/Desktop/C# 2/Homework seminars C#/Arrakis/seminar 7/bin/Debug/net6.0/seminar 7.runtimeconfig.json
+/Users/ekaterinaartamonova/Desktop/C# 2/Homework seminars C#/Arrakis/seminar 7/bin/Debug/net6.0/seminar 7.dll
+/Users/ekaterinaartamonova/Desktop/C# 2/Homework seminars C#/Arrakis/seminar 7/bin/Debug/net6.0/seminar 7.pdb
+/Users/ekaterinaartamonova/Desktop/C# 2/Homework seminars C#/Arrakis/seminar 7/obj/Debug/net6.0/seminar 7.dll
+/Users/ekaterinaartamonova/Desktop/C# 2/Homework seminars C#/Arrakis/seminar 7/obj/Debug/net6.0/refint/seminar 7.dll
+/Users/ekaterinaartamonova/Desktop/C# 2/Homework seminars C#/Arrakis/seminar 7/obj/Debug/net6.0/seminar 7.pdb
+/Users/ekaterinaartamonova/Desktop/C# 2/Homework seminars C#/Arrakis/seminar 7/obj/Debug/net6.0/seminar 7.genruntimeconfig.cache
+/Users/ekaterinaartamonova/Desktop/C# 2/Homework seminars C#/Arrakis/seminar 7/obj/Debug/net6.0/ref/seminar 7.dll
