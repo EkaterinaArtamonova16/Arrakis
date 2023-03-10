@@ -16,16 +16,17 @@ void FillArray(int[,] array)
 
 void Explorer(int[,] array)
 {
-    for (int i = 0; i <array.GetLength; i++)
+    for (int i = 0; i <array.GetLength(0); i++)
     {
         Console.WriteLine();
-        for (int j = 0; j <array.GetLength; j++)
+        for (int j = 0; j <array.GetLength(1); j++)
         {
             if(i%2 == 0 && j%2 == 0)
             array[i,j] *= array[i,j];
+            Console.Write(array[i,j] + " ");
 
         }
-        Console.Write(array[i,j] + " ");
+        
 
     }
 }
