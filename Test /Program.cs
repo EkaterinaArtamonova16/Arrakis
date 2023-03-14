@@ -1,16 +1,11 @@
-﻿  static int Prompt(string message)//метод запроса числа
+﻿System.Console.WriteLine("Input number: ");
+int n = Convert.ToInt32(Console.ReadLine());
+
+int PrintNumbers(int n)
 {
-    Console.WriteLine(message);
-    int result = Convert.ToInt32(Console.ReadLine());
-    return result;
+    if (n == 1) return 1;
+    Console.Write($"{n}, ");
+    return PrintNumbers(n-1);
 }
 
-    Console.WriteLine(FinfSumAllElements(Prompt("Enter first number"),Prompt("Enter second number")));
-    Console.ReadLine();
-
-
-int FinfSumAllElements(int firstnum, int secondnum)
-{
-    if (firstnum == secondnum) return firstnum;
-    return firstnum + FinfSumAllElements(firstnum + 1, secondnum);
-}
+System.Console.WriteLine(PrintNumbers(n));

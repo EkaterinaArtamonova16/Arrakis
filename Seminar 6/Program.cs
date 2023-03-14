@@ -1,35 +1,45 @@
-﻿// See https://aka.ms/new-console-template for more information
-int[,] array = new int[new Random().Next(2,10), new Random().Next(2,10)];
+﻿//Пользователь вводит с клавиатуры M чисел. Посчитайте, сколько чисел больше 0 ввёл пользователь.
 
-void FillArray(int[,] array)
-{
-    for (int i = 0; i < array.GetLength(0); i++)
+Console.Clear();
+
+Console.Write("Enter numbers separated by spaces: ");
+string input = Console.ReadLine();
+
+int[] numbers = ParseInput(input);
+int count = CountPositive(numbers);
+
+Console.WriteLine($"Number of positive numbers: {count}");
+Console.Write("Positive numbers: ");
+PrintPositive(numbers);
+    
+
+    static int[] ParseInput(string input) // разбивает строку ввода на отдельные числа и сохраняет их в массив.
+{  
+    string[] parts = input.Split(' ');
+    int[] numbers = new int[parts.Length];
+    for (int i = 0; i < parts.Length; i++)
     {
-        Console.WriteLine();
-        for (int j = 0; j < array.GetLength(1); j++)
-        {
-            array[i,j] = new Random().Next(-10,11);
-            Console.WriteLine(array[i,j] + " ");
-        }
+        numbers[i] = int.Parse(parts[i]);
     }
+    return numbers;
 }
 
-void Explorer(int[,] array)
+static int CountPositive(int[] numbers) // считает количество положительных чисел в массиве. 
 {
-    for (int i = 0; i <array.GetLength(0); i++)
+    int count = 0;
+    for (int i = 0; i < numbers.Length; i++)
     {
-        Console.WriteLine();
-        for (int j = 0; j <array.GetLength(1); j++)
-        {
-            if(i%2 == 0 && j%2 == 0)
-            array[i,j] *= array[i,j];
-            Console.Write(array[i,j] + " ");
+        if (numbers[i] > 0)        
+            count++;       
+    }
+    return count;
+}
 
-        }
-        
-
+static void PrintPositive(int[] numbers) // выводит на экран все положительные числа из массива.
+{
+    for (int i = 0; i < numbers.Length; i++)
+    {
+        if (numbers[i] > 0)        
+            Console.Write(numbers[i] + " ");        
     }
 }
-FillArray(array);
-Console.WriteLine();
-Explorer(array);
